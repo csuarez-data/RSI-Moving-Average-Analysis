@@ -6,4 +6,5 @@ Input stock tickers, set dates and execute quick RSI and rolling moving average 
 RSI (Relative Strength Index) - https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/RSI
 Moving averages - https://www.dummies.com/personal-finance/investing/stocks-trading/moving-averages-as-a-stock-investment-indicator/
 
+![image](https://user-images.githubusercontent.com/82084556/114274631-566f6b80-9a17-11eb-98dd-15364cf3b1bd.png)
 
